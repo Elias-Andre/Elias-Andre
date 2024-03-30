@@ -1,6 +1,7 @@
 
 # Elias André
 
+🇧🇷
 👨‍🔬 Chemist :electron: \
 👨‍💻 I.T. Student \
 🏋️‍♂️ Gym \
