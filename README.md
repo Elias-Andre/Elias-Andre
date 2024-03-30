@@ -1,7 +1,6 @@
 
 # Elias André
 
-:flag_brazil:
 👨‍🔬 Chemist :electron: \
 👨‍💻 I.T. Student \
 🏋️‍♂️ Gym \
