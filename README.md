@@ -2,7 +2,7 @@
 # Elias André
 🇧🇷 \
 👨‍🔬 Chemist :electron: \
-👨‍💻 I.T. Student \
+👨‍💻 Software Engineering Student \
 🏋️‍♂️ Gym \
 🏃‍♂️ Former college athlete
 
@@ -30,7 +30,8 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## :octocat: Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elias-Andre&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elias-Andre&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars&hide_rank=true)
+
 
 
 ## ⌨️ Top langs 
